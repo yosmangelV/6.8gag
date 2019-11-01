@@ -4,9 +4,9 @@ Aplicación del curso de Fernando Herrera para Ionic, en el cual desarrollamos u
 un aplicativo parecido a Instagram.
 
 ***
-##Pasos de intalación
+## *Pasos de intalación*
 
-### *Proyecto  en IONIC 3
+### Proyecto  en IONIC 3
 Luego de clonar el proyecto realizamos el 
 
 * `npm install`
